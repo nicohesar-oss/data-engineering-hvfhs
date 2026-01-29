@@ -1,1 +1,0 @@
-# Ingesta capa silver
