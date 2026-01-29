@@ -56,4 +56,11 @@ archivo High Volume For-Hire Vehicle Trip Records para enero de
 2025
 https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
+---
+#Optimización, Performance y Diseño de Lakehouse
+# En un entorno productivo con Delta Lake,
+# esta tabla Gold podría optimizarse usando:
+# OPTIMIZE ... ZORDER BY (trip_date)
+
+
 
